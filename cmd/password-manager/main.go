@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 	"os"
-	"password-manager/internal/admin"
-	"password-manager/internal/user"
+	"internal/admin"
+	"internal/user"
 )
 
 func main() {
