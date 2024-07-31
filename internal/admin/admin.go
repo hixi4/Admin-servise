@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"password-manager/internal/user"
+	"internal/user"
 )
 
 // Функція для перегляду та редагування профілю адміністратора
